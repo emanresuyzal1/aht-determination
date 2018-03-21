@@ -1,4 +1,10 @@
-#determination
+# aht-determination
+
+[[ORIGINAL REPO]](http://github.com/thattacoguy/determination)
+
+This is a modified version of the determination theme by Daniel Gallegos, used on the tumblr for [A Halloween Tale](https://a-halloween-tale.tumblr.com), an Undertale X EarthBound Halloween Hack crossover comic.
+
+# Original Description
 
 	* Don't lose hope! Taco! Stay determined! 
 	* You are the future of humans and monsters!
